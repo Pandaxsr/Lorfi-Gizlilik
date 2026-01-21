@@ -1,2 +1,1 @@
 # Lorfi-Gizlilik
-gizlilik
